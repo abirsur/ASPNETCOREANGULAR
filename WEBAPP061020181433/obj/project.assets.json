@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ABIR\\Git\\AngularApp\\WEBAPP061020181433\\WEBAPP061020181433.csproj",
+      "projectUniqueName": "C:\\Users\\ABIR\\Git\\ASPNETCOREANGULAR\\ASPNETCOREANGULAR\\WEBAPP061020181433\\WEBAPP061020181433.csproj",
       "projectName": "WEBAPP061020181433",
-      "projectPath": "C:\\Users\\ABIR\\Git\\AngularApp\\WEBAPP061020181433\\WEBAPP061020181433.csproj",
+      "projectPath": "C:\\Users\\ABIR\\Git\\ASPNETCOREANGULAR\\ASPNETCOREANGULAR\\WEBAPP061020181433\\WEBAPP061020181433.csproj",
       "packagesPath": "C:\\Users\\ABIR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ABIR\\Git\\AngularApp\\WEBAPP061020181433\\obj\\",
+      "outputPath": "C:\\Users\\ABIR\\Git\\ASPNETCOREANGULAR\\ASPNETCOREANGULAR\\WEBAPP061020181433\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
